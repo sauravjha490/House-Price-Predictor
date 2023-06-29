@@ -1,2 +1,2 @@
 # Project2
-I developed this portfolio website using Python Flask framework and build the model using Jupyter Notebook.
+Deploying Machine learning Model made in Jupyter Notebook with Flask framework of Python, to determine the price of house based on different features.
